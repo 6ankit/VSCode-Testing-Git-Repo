@@ -10,9 +10,7 @@ const App = () =>{
   return(
     <ReactFragment>
     {
-      data.map((value,index)=>(
-        <h1 key={index}>{value}</h1>
-      ))
+     <h1>This is the app.jsx</h1>
     }
     </ReactFragment>
   )
